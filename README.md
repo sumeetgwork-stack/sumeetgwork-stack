@@ -3,7 +3,7 @@
 I'm a passionate **Computer Science Engineering student** at Xavier Institute of Engineering, building at the intersection of Hardware and Software. I specialize in creating technology that makes a real impact—from IoT-powered rovers to decentralized blockchain platforms.
 
 ### 🚀 What I'm working on
-- 🛠️ Building **[Medicare+](https://sumeet-gupta.vercel.app)**: An IoT + Blockchain based healthcare solution.
+- 🛠️ Building **[Medicare+](https://thesumeetgupta.vercel.app)**: An IoT + Blockchain based healthcare solution.
 - 🔗 Developing **ChainFund**: A decentralized, secure fundraising platform.
 - 🎨 Creating **OatbitesBySEJ**: A highly interactive 3D e-commerce experience.
 - 🤖 Engineering **RoboRover**: An intelligent IoT surveillance rover for disaster response.
@@ -18,7 +18,7 @@ I'm a passionate **Computer Science Engineering student** at Xavier Institute of
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgwork-stack&layout=compact&theme=dark&hide_border=true)
 
 ### 📫 Let's Connect
-- 🌐 [Portfolio Website](https://sumeet-gupta.vercel.app)
+- 🌐 [Portfolio Website](https://thesumeetgupta.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/sumeetgupta07)
 - 📧 [sumeetgwork@gmail.com](mailto:sumeetgwork@gmail.com)
 
