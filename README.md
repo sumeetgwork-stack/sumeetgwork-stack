@@ -15,8 +15,8 @@ I'm a passionate **Computer Science Engineering student** at Xavier Institute of
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=sumeetgwork-stack&show_icons=true&theme=dark&hide_border=true" alt="Sumeet's GitHub stats" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=sumeetgwork-stack&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumeetgwork-stack&theme=dark" alt="Sumeet's GitHub stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumeetgwork-stack&theme=dark" alt="Top Langs" height="180" />
 </p>
 
 ### 🏆 GitHub Trophies
