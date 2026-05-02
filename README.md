@@ -1,4 +1,4 @@
-﻿# Hi there, I'm Sumeet Gupta 👋 
+# Hi there, I'm Sumeet Gupta 👋 
 
 I'm a passionate **Computer Science Engineering student** at Xavier Institute of Engineering, building at the intersection of Hardware and Software. I specialize in creating technology that makes a real impact—from IoT-powered rovers to decentralized blockchain platforms.
 
@@ -14,8 +14,13 @@ I'm a passionate **Computer Science Engineering student** at Xavier Institute of
 - **Tools:** Vite, Framer Motion, Web3, Git, Node.js.
 
 ### 📊 My GitHub Stats
-![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeetgwork-stack&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgwork-stack&layout=compact&theme=dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumeetgwork-stack&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Sumeet's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetgwork-stack&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Langs" height="180" />
+</p>
+
+### 🔥 My Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumeetgwork-stack&theme=dark&hide_border=true)
 
 ### 📫 Let's Connect
 - 🌐 [Portfolio Website](https://thesumeetgupta.vercel.app)
